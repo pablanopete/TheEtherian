@@ -325,7 +325,7 @@ dapp_news_22_news:
 
 * * *
 
-*Disclaimer: All information is taken from our volunteers at face value, if you have a complaint about one of our volunteers or one of our posts please contact <etherian@mail.com> and we will investigate the matter.*
+*Disclaimer: All information is taken from our volunteers at face value, if you have a complaint about one of our volunteers or one of our posts please contact <whisper@etherian.world> and we will investigate the matter.*
 
  [1]: https://dappdaily.com/
  [2]: https://dappdaily.com/ethereum-reading-list-for-prospective-dapp-developers-15d515383b23
