@@ -233,12 +233,12 @@ dapp_news_20_news:
     </ul>
 ---
 <h3 class="unchanged rich-diff-level-one">
-  Etherian.World contributor PΞther wrote a <a href="https://medium.com/etherian/how-to-centralize-information-without-centralizing-power-ae36d41020f4">blog</a> describing our vision and mission up to this point.
+  Etherian.World <a href="https://medium.com/etherian/how-to-centralize-information-without-centralizing-power-ae36d41020f4">mission statement.</a>
 </h3>
 
 <hr class="unchanged rich-diff-level-one" />
 
-## Coverage: May 1 – 7 2017
+## May 1 – 7 2017
 
 <hr class="unchanged rich-diff-level-one" />
 
