@@ -1,6 +1,6 @@
 ---
 ID: 829
-post_title: Summary for the Week of May 1st 2017
+post_title: Week of May 1st 2017
 author: theetherian
 post_date: 2017-05-08 14:59:10
 post_excerpt: ""
