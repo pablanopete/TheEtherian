@@ -187,25 +187,24 @@ dapp_news_15_news:
 dapp_news:
   - "16"
 ---
-<h2>Coverage: March 5 - 12, 2017</h2>
+## Coverage: March 5 - 12, 2017
 
-<hr />
+* * *Shout-outs: 
 
-Shout-outs:
-<ul>
- 	<li>Big thanks to Evan Van Ness for featuring us in his weekly post, please <a href="http://evanvanness.us14.list-manage1.com/subscribe?u=4c6ec57a148e890524b6ac91f&amp;id=7061f7fa65">give him a subscription</a> to his weekly email newsletter. His weekly post is the most in-depth and informative look into the ethereum ecosystem you’re going to get. Here’s a link to his site: <a href="http://www.weekinethereum.com/">http://www.weekinethereum.com/</a></li>
- 	<li>A nod of appreciation to @3esmit for putting so much work into our internal Etherian participation token.</li>
- 	<li>Congratulations to u/ethermate for winning our <a href="https://www.reddit.com/r/ethereum/comments/5y4djx/the_etherian_logo_competition_1_eth_prize/">logo competition</a>!</li>
- 	<li>Big thanks to Joe Urgo for featuring us in his daily post, <a href="https://dappdaily.com/">The Dapp Daily</a>. The Dapp Daily is your go-to daily summary of what's happening in the ethereum ecosystem.</li>
-</ul>
+*   Big thanks to Evan Van Ness for featuring us in his weekly post, please [give him a subscription][1] to his weekly email newsletter. His weekly post is the most in-depth and informative look into the ethereum ecosystem you’re going to get. Here’s a link to his site: <http://www.weekinethereum.com/>
+*   A nod of appreciation to @3esmit for putting so much work into our internal Etherian participation token.
+*   Congratulations to u/ethermate for winning our [logo competition][2]!
+*   Big thanks to Joe Urgo for featuring us in his daily post, [The Dapp Daily][3]. The Dapp Daily is your go-to daily summary of what's happening in the ethereum ecosystem.
 
-<hr />
+* * *Coverage: 
 
-Coverage:
-<ul>
- 	<li><span style="font-weight: 400;">jarredchase__twitter: </span> <span style="font-weight: 400;">Swarm, Status, Colony, WeTrust, ChronoBank</span></li>
- 	<li><span style="font-weight: 400;">truewavebreak:</span> <span style="font-weight: 400;">ICONOMI, Golem, Augur, AKASHA, MelonPort</span></li>
- 	<li><span style="font-weight: 400;">MrNebbiolo: </span> <span style="font-weight: 400;">uPort, Casper, FirstBlood, Digix</span></li>
- 	<li><span style="font-weight: 400;">PΞther:</span> <span style="font-weight: 400;">Ethlance, SingularDTV</span></li>
-</ul>
-<em>Disclaimer: All information is taken from our volunteers at face value, if you have a complaint about one of our volunteers or one of our posts please contact etherian@mail.com and we will investigate the matter.</em>
+*   <span style="font-weight: 400;">jarredchase__twitter: </span> <span style="font-weight: 400;">Swarm, Status, Colony, WeTrust, ChronoBank</span>
+*   <span style="font-weight: 400;">truewavebreak:</span> <span style="font-weight: 400;">ICONOMI, Golem, Augur, AKASHA, MelonPort</span>
+*   <span style="font-weight: 400;">MrNebbiolo: </span> <span style="font-weight: 400;">uPort, Casper, FirstBlood, Digix</span>
+*   <span style="font-weight: 400;">PΞther:</span> <span style="font-weight: 400;">Ethlance, SingularDTV</span>
+
+*Disclaimer: All information is taken from our volunteers at face value, if you have a complaint about one of our volunteers or one of our posts please contact etherian@mail.com and we will investigate the matter.*
+
+ [1]: http://evanvanness.us14.list-manage1.com/subscribe?u=4c6ec57a148e890524b6ac91f&id=7061f7fa65
+ [2]: https://www.reddit.com/r/ethereum/comments/5y4djx/the_etherian_logo_competition_1_eth_prize/
+ [3]: https://dappdaily.com/

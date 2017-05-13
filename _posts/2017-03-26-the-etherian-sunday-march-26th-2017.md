@@ -287,28 +287,22 @@ dapp_news_18_news:
 dapp_news:
   - "19"
 ---
-<h2>Coverage: March 19 - 26, 2017</h2>
+## Coverage: March 19 - 26, 2017
 
-<hr />
+* * *Shout-outs: 
 
-Shout-outs:
-<ul>
- 	<li>Big thanks to Evan Van Ness for featuring us in his weekly post, please give him a subscription to his weekly email newsletter. His weekly post is the most in-depth and informative look into the ethereum ecosystem you’re going to get. Here’s a link to his site: <a href="http://www.weekinethereum.com/">http://www.weekinethereum.com/</a></li>
- 	<li>A nod of appreciation to @3esmit for putting so much work into our internal Etherian participation token.</li>
- 	<li>Big thanks to Joe Urgo for featuring us in his daily post, The Dapp Daily. The Dapp Daily is your go-to daily summary of what’s happening in the ethereum ecosystem.</li>
- 	<li>Check out ethercast for a full list of dapps – <a href="http://dapps.ethercasts.com/">http://dapps.ethercasts.com/</a></li>
-</ul>
+*   Big thanks to Evan Van Ness for featuring us in his weekly post, please give him a subscription to his weekly email newsletter. His weekly post is the most in-depth and informative look into the ethereum ecosystem you’re going to get. Here’s a link to his site: <http://www.weekinethereum.com/>
+*   A nod of appreciation to @3esmit for putting so much work into our internal Etherian participation token.
+*   Big thanks to Joe Urgo for featuring us in his daily post, The Dapp Daily. The Dapp Daily is your go-to daily summary of what’s happening in the ethereum ecosystem.
+*   Check out ethercast for a full list of dapps – <http://dapps.ethercasts.com/>
 
-<hr />
+* * *Coverage: 
 
-Coverage:
-<ul>
- 	<li>jarredchase__twitter: Swarm, Status, Colony, WeTrust, ChronoBank, UjoMusic</li>
- 	<li>truewavebreak: ICONOMI, Golem, Augur, AKASHA, MelonPort</li>
- 	<li>MrNebbiolo: uPort, Casper, FirstBlood, Digix</li>
- 	<li>PΞther: Ethlance, SingularDTV</li>
-</ul>
+*   jarredchase__twitter: Swarm, Status, Colony, WeTrust, ChronoBank, UjoMusic
+*   truewavebreak: ICONOMI, Golem, Augur, AKASHA, MelonPort
+*   MrNebbiolo: uPort, Casper, FirstBlood, Digix
+*   PΞther: Ethlance, SingularDTV
 
-<hr />
+* * *
 
-<em>Disclaimer: All information is taken from our volunteers at face value, if you have a complaint about one of our volunteers or one of our posts please contact <a href="mailto:etherian@mail.com">etherian@mail.com</a> and we will investigate the matter.</em>
+*Disclaimer: All information is taken from our volunteers at face value, if you have a complaint about one of our volunteers or one of our posts please contact <etherian@mail.com> and we will investigate the matter.*

@@ -232,33 +232,64 @@ dapp_news_20_news:
     <li>All-hands planned for June in Berlin</li>
     </ul>
 ---
-<h3 class="unchanged rich-diff-level-one">Etherian.World contributor PΞther wrote a <a href="https://medium.com/etherian/how-to-centralize-information-without-centralizing-power-ae36d41020f4">blog</a> describing our vision and mission up to this point.</h3>
+<h3 class="unchanged rich-diff-level-one">
+  Etherian.World contributor PΞther wrote a <a href="https://medium.com/etherian/how-to-centralize-information-without-centralizing-power-ae36d41020f4">blog</a> describing our vision and mission up to this point.
+</h3>
 
 <hr class="unchanged rich-diff-level-one" />
 
-<h2>Coverage: May 1 – 7 2017</h2>
+## Coverage: May 1 – 7 2017
 
 <hr class="unchanged rich-diff-level-one" />
-<p class="unchanged rich-diff-level-one">Shout-outs:</p>
+
+<p class="unchanged rich-diff-level-one">
+  Shout-outs:
+</p>
 
 <ul class="unchanged rich-diff-level-one">
- 	<li class="unchanged">Big thanks to Evan Van Ness for featuring us in his weekly post, please give him a subscription to his weekly email newsletter. His weekly post is the most in-depth and informative look into the ethereum ecosystem you’re going to get. Here’s a link to his site: <a href="http://www.weekinethereum.com/">http://www.weekinethereum.com/</a></li>
- 	<li class="unchanged">A nod of appreciation to @3esmit for putting so much work into our internal Etherian participation token.</li>
- 	<li class="unchanged">Big thanks to Joe Urgo for featuring us in his daily post, <a href="https://dappdaily.com/">The Dapp Daily</a>. Check out his excellent <a href="https://dappdaily.com/ethereum-reading-list-for-prospective-dapp-developers-15d515383b23">Ethereum Reading List For Prospective Dapp Developers</a></li>
- 	<li class="unchanged">Huge thanks to Joris of <a href="http://dapps.ethercasts.com/">State of dApps</a> for integrating Etherian.World news links</li>
+  <li class="unchanged">
+    Big thanks to Evan Van Ness for featuring us in his weekly post, please give him a subscription to his weekly email newsletter. His weekly post is the most in-depth and informative look into the ethereum ecosystem you’re going to get. Here’s a link to his site: <a href="http://www.weekinethereum.com/">http://www.weekinethereum.com/</a>
+  </li>
+  <li class="unchanged">
+    A nod of appreciation to @3esmit for putting so much work into our internal Etherian participation token.
+  </li>
+  <li class="unchanged">
+    Big thanks to Joe Urgo for featuring us in his daily post, <a href="https://dappdaily.com/">The Dapp Daily</a>. Check out his excellent <a href="https://dappdaily.com/ethereum-reading-list-for-prospective-dapp-developers-15d515383b23">Ethereum Reading List For Prospective Dapp Developers</a>
+  </li>
+  <li class="unchanged">
+    Huge thanks to Joris of <a href="http://dapps.ethercasts.com/">State of dApps</a> for integrating Etherian.World news links
+  </li>
 </ul>
 
 <hr class="unchanged rich-diff-level-one" />
-<p class="unchanged rich-diff-level-one">Coverage:</p>
+
+<p class="unchanged rich-diff-level-one">
+  Coverage:
+</p>
 
 <ul class="unchanged rich-diff-level-one">
- 	<li class="unchanged">ChaceHunter: Swarm, Status, Colony</li>
- 	<li class="unchanged">truewavebreak: ICONOMI, Golem, Augur, AKASHA, MelonPort</li>
- 	<li class="unchanged">MrNebbiolo: uPort, Casper, FirstBlood, Digix</li>
- 	<li class="unchanged">PΞther: Ethlance, SingularDTV, ChronoBank, Gnosis, WeTrust, Matchpool</li>
- 	<li class="unchanged">pablanopete: Brave (BasicAttentionToken), Giveth, ENS</li>
- 	<li class="unchanged">wighawag: Etherplay</li>
+  <li class="unchanged">
+    ChaceHunter: Swarm, Status, Colony
+  </li>
+  <li class="unchanged">
+    truewavebreak: ICONOMI, Golem, Augur, AKASHA, MelonPort
+  </li>
+  <li class="unchanged">
+    MrNebbiolo: uPort, Casper, FirstBlood, Digix
+  </li>
+  <li class="unchanged">
+    PΞther: Ethlance, SingularDTV, ChronoBank, Gnosis, WeTrust, Matchpool
+  </li>
+  <li class="unchanged">
+    pablanopete: Brave (BasicAttentionToken), Giveth, ENS
+  </li>
+  <li class="unchanged">
+    wighawag: Etherplay
+  </li>
 </ul>
 
 <hr class="unchanged rich-diff-level-one" />
-<p class="unchanged rich-diff-level-one"><em>Disclaimer: All information is taken from our volunteers at face value, if you have a complaint about one of our volunteers or one of our posts please <a href="mailto:whisper@etherian.world">whisper@etherian.world</a> and we will investigate the matter.</em></p>
+
+<p class="unchanged rich-diff-level-one">
+  <em>Disclaimer: All information is taken from our volunteers at face value, if you have a complaint about one of our volunteers or one of our posts please <a href="mailto:whisper@etherian.world">whisper@etherian.world</a> and we will investigate the matter.</em>
+</p>

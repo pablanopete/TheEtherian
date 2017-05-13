@@ -252,30 +252,28 @@ dapp_news_23_news:
     <li>Exploring concepts such as <a href="https://medium.com/@simondlr/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776%20">continuous token models</a> and <a href="https://medium.com/@simondlr/a-bonded-curation-community-247f14a6de04#.bx59swd45%20">curation communities</a> with experiments rolling out soon!</li>
     </ul>
 ---
-<h2>Coverage: April 16 - 23, 2017</h2>
+## Coverage: April 16 - 23, 2017
 
-<hr />
+* * *Shout-outs: 
 
-Shout-outs:
-<ul>
- 	<li>Big thanks to Evan Van Ness for featuring us in his weekly post, please give him a subscription to his weekly email newsletter. His weekly post is the most in-depth and informative look into the ethereum ecosystem you’re going to get. Here’s a link to his site: <a href="http://www.weekinethereum.com/">http://www.weekinethereum.com/</a></li>
- 	<li>A nod of appreciation to @3esmit for putting so much work into our internal Etherian participation token.</li>
- 	<li>Big thanks to Joe Urgo for featuring us in his daily post, <a href="https://dappdaily.com/">The Dapp Daily</a>. He just posted this excellent <a href="https://dappdaily.com/ethereum-reading-list-for-prospective-dapp-developers-15d515383b23">Ethereum Reading List For Prospective Dapp Developers</a></li>
- 	<li>Check out <a href="http://dapps.ethercasts.com/">State of dApps</a> for a curated list of all dApps</li>
-</ul>
+*   Big thanks to Evan Van Ness for featuring us in his weekly post, please give him a subscription to his weekly email newsletter. His weekly post is the most in-depth and informative look into the ethereum ecosystem you’re going to get. Here’s a link to his site: <http://www.weekinethereum.com/>
+*   A nod of appreciation to @3esmit for putting so much work into our internal Etherian participation token.
+*   Big thanks to Joe Urgo for featuring us in his daily post, [The Dapp Daily][1]. He just posted this excellent [Ethereum Reading List For Prospective Dapp Developers][2]
+*   Check out [State of dApps][3] for a curated list of all dApps
 
-<hr />
+* * *Coverage: 
 
-Coverage:
-<ul>
- 	<li>ChaceHunter: Swarm, Status, Colony, UjoMusic, MakerDAO</li>
- 	<li>truewavebreak: ICONOMI, Golem, Augur, AKASHA, MelonPort</li>
- 	<li>MrNebbiolo: uPort, Casper, FirstBlood, Digix</li>
- 	<li>PΞther: Ethlance, SingularDTV, ChronoBank, Gnosis, WeTrust, Matchpool</li>
- 	<li>pablanopete: Brave (BasicAttentionToken), Giveth, ENS</li>
- 	<li>wighawag: Etherplay</li>
-</ul>
+*   ChaceHunter: Swarm, Status, Colony, UjoMusic, MakerDAO
+*   truewavebreak: ICONOMI, Golem, Augur, AKASHA, MelonPort
+*   MrNebbiolo: uPort, Casper, FirstBlood, Digix
+*   PΞther: Ethlance, SingularDTV, ChronoBank, Gnosis, WeTrust, Matchpool
+*   pablanopete: Brave (BasicAttentionToken), Giveth, ENS
+*   wighawag: Etherplay
 
-<hr />
+* * *
 
-<em>Disclaimer: All information is taken from our volunteers at face value, if you have a complaint about one of our volunteers or one of our posts please contact <a href="mailto:etherian@mail.com">etherian@mail.com</a> and we will investigate the matter.</em>
+*Disclaimer: All information is taken from our volunteers at face value, if you have a complaint about one of our volunteers or one of our posts please contact <etherian@mail.com> and we will investigate the matter.*
+
+ [1]: https://dappdaily.com/
+ [2]: https://dappdaily.com/ethereum-reading-list-for-prospective-dapp-developers-15d515383b23
+ [3]: http://dapps.ethercasts.com/

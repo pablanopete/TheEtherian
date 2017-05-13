@@ -120,8 +120,8 @@ dapp_news_10_news:
 dapp_news:
   - "11"
 ---
-<h2>Coverage: February 12 - 19, 2017</h2>
+## Coverage: February 12 - 19, 2017
 
-<hr />
+* * *
 
-<em>Disclaimer: All information is taken from our volunteers at face value, if you have a complaint about one of our volunteers or one of our posts please contact etherian@mail.com and we will investigate the matter.</em>
+*Disclaimer: All information is taken from our volunteers at face value, if you have a complaint about one of our volunteers or one of our posts please contact etherian@mail.com and we will investigate the matter.*
