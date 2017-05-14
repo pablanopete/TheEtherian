@@ -1,3 +1,11 @@
+---
+post_title: 'Test'
+layout: defined
+published: true
+---
+
+
+
 <div class="row row-title">
 	<div class="col-sm-10 col-sm-push-2 col-body">
 		<div class="banner banner-title">
@@ -36,3 +44,4 @@ Testing test test
 </div>
 
 
+### Augur test  
