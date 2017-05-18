@@ -129,19 +129,21 @@ dapp_news_10_news:
 dapp_news:
   - "11"
 ---
-## Coverage: February 19 - 26, 2017
+<h2>Coverage: February 19 - 26, 2017</h2>
 
-* * *Big thanks to Evan Van Ness for featuring us in his weekly post, please 
+<hr />
 
-[give him a subscription][1] to his weekly email newsletter. His weekly post is the most in-depth and informative look into the ethereum ecosystem you're going to get. Here's a link to his site: <http://www.weekinethereum.com/> 
-* * *Coverage: 
+Big thanks to Evan Van Ness for featuring us in his weekly post, please <a href="http://evanvanness.us14.list-manage1.com/subscribe?u=4c6ec57a148e890524b6ac91f&amp;id=7061f7fa65">give him a subscription</a> to his weekly email newsletter. His weekly post is the most in-depth and informative look into the ethereum ecosystem you're going to get. Here's a link to his site: <a href="http://www.weekinethereum.com/">http://www.weekinethereum.com/</a>
 
-*   @jarredchase__twitter*: *Swarm, Status, Colony
-*   @truewavebreak: ICONOMI, Golem, Augur, AKASHA
-*   @MrNebbiolo: uPort, Casper, FirstBlood, Digix, Editor (2.12.2017-2.19.2017)
+<hr />
 
-* * *
+Coverage:
+<ul>
+ 	<li>@jarredchase__twitter<em>: </em>Swarm, Status, Colony</li>
+ 	<li>@truewavebreak: ICONOMI, Golem, Augur, AKASHA</li>
+ 	<li>@MrNebbiolo: uPort, Casper, FirstBlood, Digix, Editor (2.12.2017-2.19.2017)</li>
+</ul>
 
-*Disclaimer: All information is taken from our volunteers at face value, if you have a complaint about one of our volunteers or one of our posts please contact etherian@mail.com and we will investigate the matter.*
+<hr />
 
- [1]: http://evanvanness.us14.list-manage1.com/subscribe?u=4c6ec57a148e890524b6ac91f&id=7061f7fa65
+<em>Disclaimer: All information is taken from our volunteers at face value, if you have a complaint about one of our volunteers or one of our posts please contact etherian@mail.com and we will investigate the matter.</em>

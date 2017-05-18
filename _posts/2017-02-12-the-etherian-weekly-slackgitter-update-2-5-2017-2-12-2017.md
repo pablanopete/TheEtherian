@@ -68,11 +68,55 @@ dapp_news_5_news:
 dapp_news:
   - "6"
 ---
-## Coverage: February 5 - 12, 2017
+<h2>Coverage: February 5 - 12, 2017</h2>
 
-* * *Hi everyone, this is the first post of our weekly update. It is short and meant to highlight our vision--in order to complete the full list of dapps we wish to cover we need more volunteers. Please head over to 
+<hr />
 
-<https://gitter.im/The_Etherian/Lobby#> and help us out. The following is the list of dapps we have compiled (it's incomplete and in no particular order, we would love if you could add to it for us!) and the current volunteers that are responsible for covering them. List of Dapps/Channels: 1) Akasha -@truewavebreak 2) Digix -@MrNebbiolo 3) Colony -@jarredchase\_\_twitter 4) uPort - @MrNebbiolo 5) Augur - @truewavebreak 6) Status -@jarredchase\_\_twitter 7) Swarm 8) ENS 9) Mist 10) Light Client 11) Weifund 12) Maker 13) Raiden/RaidEx 14) Gnosis 15) Golem 16) Branche 17) Firstblood 18) Mysterium 19) MediaPool 20) WeTrust 21) Melonport 22) Iconomi 23) SingularDTV 24) UJO Music 25) Ether-Delta 26) EtherEx 27) Rouleth/Blockjack 28) bchat 29) imToken 30) blocktix 31) Etherisc 32) go-ethereum 33) btcrelay 34) solidity 35) truffle 36) FundRequest 37) Decentralized Capital 38) Benefactory 39) CharityDAO 40) Mainstreet/Intellisys 41) Aragon 
-* * *
+Hi everyone, this is the first post of our weekly update. It is short and meant to highlight our vision--in order to complete the full list of dapps we wish to cover we need more volunteers. Please head over to <a href="https://gitter.im/The_Etherian/Lobby#">https://gitter.im/The_Etherian/Lobby#</a> and help us out. The following is the list of dapps we have compiled (it's incomplete and in no particular order, we would love if you could add to it for us!) and the current volunteers that are responsible for covering them.
 
-*Disclaimer: All information is taken from our volunteers at face value, if you have a complaint about one of our volunteers or one of our posts please contact etherian@mail.com and we will investigate the matter.*
+List of Dapps/Channels:
+1) Akasha -@truewavebreak
+2) Digix -@MrNebbiolo
+3) Colony -@jarredchase__twitter
+4) uPort - @MrNebbiolo
+5) Augur - @truewavebreak
+6) Status -@jarredchase__twitter
+7) Swarm
+8) ENS
+9) Mist
+10) Light Client
+11) Weifund
+12) Maker
+13) Raiden/RaidEx
+14) Gnosis
+15) Golem
+16) Branche
+17) Firstblood
+18) Mysterium
+19) MediaPool
+20) WeTrust
+21) Melonport
+22) Iconomi
+23) SingularDTV
+24) UJO Music
+25) Ether-Delta
+26) EtherEx
+27) Rouleth/Blockjack
+28) bchat
+29) imToken
+30) blocktix
+31) Etherisc
+32) go-ethereum
+33) btcrelay
+34) solidity
+35) truffle
+36) FundRequest
+37) Decentralized Capital
+38) Benefactory
+39) CharityDAO
+40) Mainstreet/Intellisys
+41) Aragon
+
+<hr />
+
+<em>Disclaimer: All information is taken from our volunteers at face value, if you have a complaint about one of our volunteers or one of our posts please contact etherian@mail.com and we will investigate the matter.</em>

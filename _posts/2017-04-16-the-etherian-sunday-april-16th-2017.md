@@ -305,27 +305,3 @@ dapp_news_22_news:
     <li>The past couple days after the crowdsale has seen WeTrust's Slack flooded with a few early investors believing they have not received a fair return on value considering the price of ETH grew so much since first investing.</li>
     </ul>
 ---
-## Coverage: April 9 - 16, 2017
-
-* * *Shout-outs: 
-
-*   Big thanks to Evan Van Ness for featuring us in his weekly post, please give him a subscription to his weekly email newsletter. His weekly post is the most in-depth and informative look into the ethereum ecosystem you’re going to get. Here’s a link to his site: <http://www.weekinethereum.com/>
-*   A nod of appreciation to @3esmit for putting so much work into our internal Etherian participation token.
-*   Big thanks to Joe Urgo for featuring us in his daily post, [The Dapp Daily][1]. He just posted this excellent [Ethereum Reading List For Prospective Dapp Developers][2]
-*   Check out ethercast for a full list of dapps – <http://dapps.ethercasts.com/>
-
-* * *Coverage: 
-
-*   ChaceHunter: Swarm, Status, Colony, WeTrust, ChronoBank, UjoMusic, Golem, MakerDAO
-*   truewavebreak: ICONOMI, Golem, Augur, AKASHA, MelonPort
-*   MrNebbiolo: uPort, Casper, FirstBlood, Digix
-*   PΞther: Ethlance, SingularDTV
-*   pablanopete: Brave (BasicAttentionToken), Giveth
-*   wighawag: Etherplay
-
-* * *
-
-*Disclaimer: All information is taken from our volunteers at face value, if you have a complaint about one of our volunteers or one of our posts please contact <whisper@etherian.world> and we will investigate the matter.*
-
- [1]: https://dappdaily.com/
- [2]: https://dappdaily.com/ethereum-reading-list-for-prospective-dapp-developers-15d515383b23
