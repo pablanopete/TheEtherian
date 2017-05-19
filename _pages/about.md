@@ -20,7 +20,8 @@ We’re an Ethereum community-oriented website called <strong>The Etherian</stro
 
 If you somehow found your way here, but have no clue what <strong>Ethereum</strong> is - read this: [Ethereum for Everyone][2]
 
-and down the rabbit hole you go...
+As you venture down the rabbit hole, please stop to say Hi at our Slack.
+<a href="https://the-etherian.herokuapp.com/">https://the-etherian.herokuapp.com/</a>
 
 [1]: https://medium.com/etherian/how-to-centralize-information-without-centralizing-power-ae36d41020f4
 [2]: https://medium.com/@Ethereum_AI/ethereum-for-everyone-2846efa35815
