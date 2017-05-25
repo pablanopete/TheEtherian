@@ -28,4 +28,17 @@ As you venture down the rabbit hole, please stop to say Hi at our Slack.
 
 &nbsp;
 
-[mc4wp_form id="870"]
+&lt;p&gt;
+&lt;label&gt;Email address: &lt;/label&gt;&lt;p&gt;
+&lt;label&gt;List choice&lt;/label&gt;
+&lt;label&gt;
+&lt;input name="_mc4wp_lists[]" type="checkbox" value="eac266ab5e" checked="true"&gt; &lt;span&gt;The Etherian&lt;/span&gt;
+&lt;/label&gt;
+&lt;/p&gt;
+
+&lt;input type="email" name="EMAIL" placeholder="Your email address" required /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;input type="submit" value="Sign up" /&gt;
+&lt;/p&gt;
