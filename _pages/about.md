@@ -25,3 +25,7 @@ As you venture down the rabbit hole, please stop to say Hi at our Slack.
 
 [1]: https://medium.com/etherian/how-to-centralize-information-without-centralizing-power-ae36d41020f4
 [2]: https://medium.com/@Ethereum_AI/ethereum-for-everyone-2846efa35815
+
+&nbsp;
+
+[mc4wp_form id="870"]
