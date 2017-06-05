@@ -172,7 +172,7 @@ dapp_news_17_news:
     <li>Blog: <a href="https://t.co/wJMWN8hflE">WeTrust Team Spotlight - Hoang Nguyen</a></li>
     </ul>
 dapp_news:
-  - "19"
+  - "20"
 dapp_news_18_dapp:
   - "949"
 dapp_news_18_news:
@@ -180,5 +180,12 @@ dapp_news_18_news:
     <ul>
     <li>Sending parcels using the Blockchain technology. Prototype and <a href="http://pacifics.org/">video</a> done by PassLfix, P-ACS and Streamr.</li>
     <li>First giveaway program closed.</li>
+    </ul>
+dapp_news_19_dapp:
+  - "784"
+dapp_news_19_news:
+  - |
+    <ul>
+    <li><a href="http://swarm-gateways.net/bzz:/markdown-editor.test/#swarm-orange-summit.test">Swarm Orange Summit 12-19 June 2017, Berlin</a></li>
     </ul>
 ---
