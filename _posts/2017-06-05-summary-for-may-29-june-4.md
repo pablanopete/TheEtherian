@@ -172,7 +172,7 @@ dapp_news_17_news:
     <li>Blog: <a href="https://t.co/wJMWN8hflE">WeTrust Team Spotlight - Hoang Nguyen</a></li>
     </ul>
 dapp_news:
-  - "20"
+  - "21"
 dapp_news_18_dapp:
   - "949"
 dapp_news_18_news:
@@ -188,5 +188,16 @@ dapp_news_19_news:
     <ul>
     <li><a href="http://swarm-gateways.net/bzz:/markdown-editor.test/#swarm-orange-summit.test">Swarm Orange Summit 12-19 June 2017, Berlin</a></li>
     <li><a href="http://swarm-gateways.net/bzzr:/2598d3b9e0c377ad441d3ea4a8796a159bdd2b195587cfa7b1684d1fa8fa3cdb?content_type=application/pdf">Slides</a> for Viktor Tron's Consensys Presentation</li>
+    </ul>
+dapp_news_20_dapp:
+  - "844"
+dapp_news_20_news:
+  - |
+    <ul>
+    <li><a href="https://blog.aragon.one/aragon-partners-with-0x-3c8d0c9dcd84">Aragon announces partnership with 0x</a></li>
+    <li>New team member, Tatu joined Aragon as Community Lead, team interview: <a href="https://blog.aragon.one/team-interviews-tatu-aragons-community-lead-85b4a43655e3">https://blog.aragon.one/team-interviews-tatu-aragons-community-lead-85b4a43655e3</a></li>
+    <li><a href="https://twitter.com/AragonProject/status/872060297930055680">Aragon Network Company Registry is expanded with two new ENS domains, there are now organization.eth and aragonproject.eth besides company.eth</a></li>
+    <li><a href="https://www.pscp.tv/w/1rmxPPbylLZxN">Luis Cuende's presentation from Token Summit</a></li>
+    <li><a href="https://twitter.com/AragonProject/status/870197794056916992">There has been some fake phishing websites, possibly with malware, the official website is https://aragon.one</a></li>
     </ul>
 ---
