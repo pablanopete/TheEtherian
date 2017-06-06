@@ -187,5 +187,6 @@ dapp_news_19_news:
   - |
     <ul>
     <li><a href="http://swarm-gateways.net/bzz:/markdown-editor.test/#swarm-orange-summit.test">Swarm Orange Summit 12-19 June 2017, Berlin</a></li>
+    <li><a href="http://swarm-gateways.net/bzzr:/2598d3b9e0c377ad441d3ea4a8796a159bdd2b195587cfa7b1684d1fa8fa3cdb?content_type=application/pdf">Slides</a> for Viktor Tron's Consensys Presentation</li>
     </ul>
 ---
