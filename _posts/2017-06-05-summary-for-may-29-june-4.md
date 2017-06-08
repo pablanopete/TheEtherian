@@ -172,7 +172,7 @@ dapp_news_17_news:
     <li>Blog: <a href="https://t.co/wJMWN8hflE">WeTrust Team Spotlight - Hoang Nguyen</a></li>
     </ul>
 dapp_news:
-  - "21"
+  - "22"
 dapp_news_18_dapp:
   - "949"
 dapp_news_18_news:
@@ -199,5 +199,14 @@ dapp_news_20_news:
     <li><a href="https://twitter.com/AragonProject/status/872060297930055680">Aragon Network Company Registry is expanded with two new ENS domains, there are now organization.eth and aragonproject.eth besides company.eth</a></li>
     <li><a href="https://www.pscp.tv/w/1rmxPPbylLZxN">Luis Cuende's presentation from Token Summit</a></li>
     <li><a href="https://twitter.com/AragonProject/status/870197794056916992">There has been some fake phishing websites, possibly with malware, the official website is https://aragon.one</a></li>
+    </ul>
+dapp_news_21_dapp:
+  - "954"
+dapp_news_21_news:
+  - |
+    <ul>
+    <li>
+    <p id="cc4d" class="graf graf--h3 graf--leading graf--title">Blog Announcement: <a href="https://medium.com/@gabrielerigo/decentralized-hedge-fund-pre-beta-bc70d9142281">Decentralized Hedge Fund Pre-Beta</a></p>
+    </li>
     </ul>
 ---
