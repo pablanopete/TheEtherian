@@ -154,7 +154,7 @@ dapp_news_15_dapp:
 dapp_news_15_news:
   - |
     <ul>
-    <li>News: SNGL Tokens added to ICONOMI</li>
+    <li>News: <a href="https://twitter.com/singulardtv/status/870869172498165760">SNGLS Tokens added to ICONOMI</a></li>
     <li>Media: <a href="http://www.upnextpodcast.com/episode-43/">Zach LeBeau on Up Next Podcast</a></li>
     </ul>
 dapp_news_16_dapp:
