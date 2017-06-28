@@ -13,6 +13,8 @@ subtitle:
 <h3>Contact Info</h3>
 <strong>Slack</strong>: <a href="http://the-etherian.herokuapp.com">http://the-etherian.herokuapp.com</a>
 
+<strong>Twitter: </strong><a href="https://twitter.com/etherianworld">https://twitter.com/etherianworld</a>
+
 <strong>GitHub</strong>: <a href="https://github.com/ethereans/TheEtherian">https://github.com/ethereans/TheEtherian</a>
 
 <strong>Email: </strong><a href="mailto:whisper@etherian.world">whisper@etherian.world</a>
